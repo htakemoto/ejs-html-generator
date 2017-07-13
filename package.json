@@ -1,0 +1,34 @@
+{
+  "name": "ejs-html-generator",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp default",
+    "build": "gulp build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/seito2014/demo-sample.git"
+  },
+  "author": "Hiroshi Takemoto",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.2.1"
+  },
+  "devDependencies": {
+    "bootstrap-sass": "^3.3.7",
+    "browser-sync": "^1.9.1",
+    "gulp": "^3.8.10",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-ejs": "^1.0.0",
+    "gulp-jshint": "^2.0.4",
+    "gulp-pleeease": "^1.1.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.6.0",
+    "jshint": "^2.9.5",
+    "jshint-stylish": "^2.2.1"
+  }
+}
